@@ -1,4 +1,4 @@
-import bg from './assets/bg.JPG'
+import bg from './assets/bg.jpg'
 import logo from './assets/logo.PNG'
 import './App.css'
 
