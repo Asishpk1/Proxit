@@ -9,7 +9,7 @@ function App() {
      <div style={{ backgroundImage: `url(${bg})`, backgroundSize: "cover",backgroundPosition: "center",minHeight: "100vh" }}>
      
       <div className="header d-flex justify-content-center">
-        <img src={logo} alt="" className='p-1 w-25' />
+        <img src={logo} alt="" className='p-1 logo' />
       </div>
 
       <div className='mt-5 pt-5 d-flex flex-column justify-content-center align-items-center'>
@@ -26,7 +26,7 @@ function App() {
         <p className='text-light'>✅ Daily 2-8 Signals </p>
         <p className='text-light'>✅ 24x7  Live Support </p>
         <p className='text-light'>👇 Click the button below 👇</p>
-        <button className='btn W-25 mt-sm-3' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button>
+        <button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button>
       </div>
       </div> 
     </>
