@@ -1,6 +1,7 @@
 import bg from './assets/bg.jpg'
 import logo from './assets/logo.PNG'
 import './App.css'
+import { Link } from 'react-router-dom'
 
 function App() {
 
@@ -26,7 +27,7 @@ function App() {
         <p className='text-light'>✅ Daily 2-8 Signals </p>
         <p className='text-light'>✅ 24x7  Live Support </p>
         <p className='text-light'>👇 Click the button below 👇</p>
-        <button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button>
+        <Link to={"https://chat.whatsapp.com/K5rV7hrYvr0AQQTyKe7YHQ?mode=gi_t"}><button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button></Link>
       </div>
       </div> 
     </>
