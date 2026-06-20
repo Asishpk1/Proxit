@@ -14,7 +14,7 @@ function App() {
       </div>
 
       <div className='mt-5 pt-5 d-flex flex-column justify-content-center align-items-center'>
-         <Link to={"https://chat.whatsapp.com/K5rV7hrYvr0AQQTyKe7YHQ?mode=gi_t"}><button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button></Link>
+         <Link to={"https://chat.whatsapp.com/HARhhfGPlcx65kFNEVWt9X?s=sh&p=i&mlu=3&amv=1"}><button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button></Link>
         <h2 className='text-light mt-3'>PROXIT WAYS</h2>
         <p>👇👇👇👇👇</p>
         <p className='text-light'>JOIN FREE WHATSAPP</p>
@@ -23,7 +23,7 @@ function App() {
         <p className='mt-4 text-light'><span className=' text-light p-1 rounded' style={{backgroundColor:'rgb(28, 3, 142)'}}>FOREX</span> I <span className=' text-dark p-1 rounded' style={{backgroundColor:'rgb(223, 220, 8)'}}>GOLD (XAUUSD)</span> I <span className=' text-light p-1 rounded' style={{backgroundColor:'rgb(251, 108, 6)'}}>BTCUSD</span></p>
         <p className='text-light'>✅ 24x7  Live Support </p>
         <p className='text-light'>👇 Click the button below 👇</p>
-        <Link to={"https://chat.whatsapp.com/K5rV7hrYvr0AQQTyKe7YHQ?mode=gi_t"}><button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button></Link>
+        <Link to={"https://chat.whatsapp.com/HARhhfGPlcx65kFNEVWt9X?s=sh&p=i&mlu=3&amv=1"}><button className='btn W-25 mt-sm-3 mb-5' style={{backgroundColor:'rgb(223, 220, 8)', fontWeight:'bold'}}> JOIN FREE WHATSAPP CHANNEL</button></Link>
       </div>
       </div> 
     </>
